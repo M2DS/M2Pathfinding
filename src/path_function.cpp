@@ -4,9 +4,10 @@ using namespace Rcpp;
 using namespace std;
 
 
-// [[Rcpp::export]]
 
 // function qui determine le sommet ayant la plus petite distance
+// [[Rcpp::export]]
+
 int find_distance_min(NumericVector distance ,LogicalVector visited, int n){
 
   int minVertex=-1;
