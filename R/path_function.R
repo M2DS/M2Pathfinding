@@ -1,7 +1,7 @@
 
 
 
-library(igraph)
+#library(igraph)
 
 
 #la fonction dijkstra donne la distance entre le noeud de d?part et de tous les autres noeuds.
