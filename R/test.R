@@ -2,11 +2,6 @@ devtools::install_github("M2DS/M2Pathfinding")
 library(M2Pathfinding)
 library(igraph)
 
-devtools::install_github("M2DS/M2pathfinding")
-library(M2pathfinding)
-library(igraph)
-
-
 ## fonction pour l'affichage des graph
 
 creat_graph<-function(graph){
