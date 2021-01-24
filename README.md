@@ -32,5 +32,5 @@ Si le graphe est stocké sous forme de liste de contiguïté, le temps d'exécut
 
 {\ displaystyle \ Theta ((| V | ^ {2}) \ log | V |)}{\ displaystyle \ Theta ((| V | ^ {2}) \ log | V |)}.
 
-
+$`\sqrt{2}`$
 
