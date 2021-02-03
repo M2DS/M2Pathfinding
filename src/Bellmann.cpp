@@ -53,11 +53,11 @@ void bellman_ford(NumericMatrix edges,int vertex_source)
       }
     }
   }
-  Rcout<<"\nVertex"<<"  Distance from source";
-  for(int i=0;i<n;i++)
-  {
-    Rcout<<"\n"<<i<<"\t"<<dis[i];
-  }
+  //Rcout<<"\nVertex"<<"  Distance from source";
+  //for(int i=0;i<n;i++)
+  //{
+    //Rcout<<"\n"<<i<<"\t"<<dis[i];
+  //}
   
 }
 
