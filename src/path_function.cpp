@@ -89,8 +89,8 @@ void dijkstra_cpp(NumericMatrix edges){
   }
 
   
-  //Rcout<<endl<<"les chemins les plus courts partant du sommet d'origine "<<endl;
-  //printSolution(distance, n, parent); 
+  Rcout<<endl<<"les chemins les plus courts partant du sommet d'origine "<<endl;
+  printSolution(distance, n, parent); 
   
   
 }
